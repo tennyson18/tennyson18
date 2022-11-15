@@ -5,7 +5,7 @@
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm a Software Testing QA enthusiast.
+- 💡 Fun fact: I'm a Software QA Tester.
 - 🌱 I’m currently Software Testing and Quality Assurance.
 - 😊 I’m open to collaborations, open source projects, internships, and entry-level opportunities.
 - 💼 Job interests: Software Test Engineer, Quality Assurance Testing/Engineering (Intern or Junior level).
