@@ -6,9 +6,9 @@
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm a Software QA Tester.
-- 🌱 I’m currently Software Testing and Quality Assurance.
+- 🌱 I’m currently learning Software Testing and Quality Assurance.
 - 😊 I’m open to collaborations, open source projects, internships, and entry-level opportunities.
-- 💼 Job interests: Software Test Engineer, Quality Assurance Testing/Engineering (Intern or Junior level).
+- 💼 Job interests: Software Test Engineer, Quality Assurance Testing/Engineering (Internships or Entry level).
 - 📫 You can [view my resume](#) and contact me by emailing odunjoben@gmail.com.
 
 ---
