@@ -13,8 +13,6 @@
 
 - 📝 I regularly write articles on [https://medium.com/@odunjoben](https://medium.com/@odunjoben)
 
-- 💬 Ask me about **API testing, Postman.**
-
 - 📫 How to reach me **odunjoben@gmail.com**
 
 - ⚡ Fun fact **I am easy going.**
