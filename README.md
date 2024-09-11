@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tennyson18&label=Profile%20views&color=0e75b6&style=flat" alt="tennyson18" /> </p>
 
-<p align="left"> <a href="https://twitter.com/olalekantweets" target="blank"><img src="https://img.shields.io/twitter/follow/olalekantweets?logo=twitter&style=for-the-badge" alt="olalekantweets" /></a> </p>
+<p align="left"> <a href="https://twitter.com/b3n_io" target="blank"><img src="https://img.shields.io/twitter/follow/b3n_io?logo=twitter&style=for-the-badge" alt="b3n_io" /></a> </p>
 
 - 🌱 I’m currently learning **Software Testing and Quality Assurance.**
 
