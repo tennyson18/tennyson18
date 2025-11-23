@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Mentorship**
 
-- 📝 I sometimes write articles on [LinkedIn and Medium - https://medium.com/@odunjoben](LinkedIn and Medium - https://medium.com/@odunjoben)
+- 📝 I sometimes write articles on LinkedIn and Medium.
 
 - 📫 How to reach me **odunjoben@gmail.com**
 
